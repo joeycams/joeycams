@@ -1,5 +1,5 @@
 ## Hi, I am Joey Camera
-##I am a Data Analyst Intern along with a Statistics with a Concentration in Data Science Student at The University of Akron
+I am a Data Analyst Intern along with a Statistics with a Concentration in Data Science Student at The University of Akron
 
 <!--
 **joeycams/joeycams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
